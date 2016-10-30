@@ -1,4 +1,4 @@
-FROM FROM jupyterhub/jupyterhub:latest
+FROM jupyterhub/jupyterhub:latest
 
 MAINTAINER Jupyter Project <jupyter@googlegroups.com>
 
