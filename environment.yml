@@ -1,0 +1,9 @@
+name: projection
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - operator
+  - matplotlib
+  - numpy
+ 
